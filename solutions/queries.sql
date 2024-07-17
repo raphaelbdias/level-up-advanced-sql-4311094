@@ -34,3 +34,7 @@ ORDER BY
 LIMIT 
     5;
 
+CREATE PROCEDURE test
+AS
+SELECT * 
+FROM customer;
